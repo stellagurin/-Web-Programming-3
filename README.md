@@ -1,2 +1,5 @@
-# -Web-Programming-3
- Assignment 3 for Web Programming in HTML and CSS. View Stella Gurin's other projects on GitHub. 
+# Web Programming - Assignment 3
+
+This is the third assignment for Web Programming, written in HTML and CSS. Here is a screenshot of what it looks like:
+
+![Screenshot](webpage-screenshot-3.png)
